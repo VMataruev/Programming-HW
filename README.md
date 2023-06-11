@@ -1,4 +1,3 @@
 
 <h1>МОЕ ДЗ 🤨</h1>
-<img src = "https://i.imgur.com/YJWc68A.mp4">
-<vid src = "https://i.imgur.com/YJWc68A.mp4">
+<img src = "https://i.imgur.com/asF7pMy.jpeg">
